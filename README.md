@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DAVID%20SIMBA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Full%20Stack%20Developer%20%7C%20Flutter%20%7C%20React%20Native%20%7C%20Kotlin&descAlignY=58&descSize=16" width="100%"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Native+%26+Hybrid+Mobile+Apps;Clean+Architecture+%2B+MVVM+%2B+BLoC;Flutter+%7C+React+Native+%7C+Kotlin+Multiplatform;Shipping+Scalable%2C+Maintainable+Software" alt="Typing SVG" />
 </a>
