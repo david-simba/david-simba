@@ -255,30 +255,7 @@ Desarrollador móvil y frontend rotando entre múltiples proyectos de distintos 
 
 ---
 
-## `08` GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=david-simba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="49%" />
-<img src="https://streak-stats.demolab.com?user=david-simba&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-simba&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="45%" />
-
-</div>
-
----
-
-## `09` GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=david-simba&theme=discord&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
----
-
-## `10` Actividad de Contribuciones
+## `08` Actividad de Contribuciones
 
 <div align="center">
 
@@ -288,7 +265,7 @@ Desarrollador móvil y frontend rotando entre múltiples proyectos de distintos 
 
 ---
 
-## `11` Enfoque Actual
+## `09` Enfoque Actual
 
 ```yaml
 current:
@@ -309,7 +286,7 @@ current:
 
 ---
 
-## `12` Idiomas y Competencias
+## `10` Idiomas y Competencias
 
 <div align="center">
 
@@ -322,7 +299,7 @@ current:
 
 ---
 
-## `13` Conectemos
+## `11` Conectemos
 
 <div align="center">
 
