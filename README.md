@@ -2,19 +2,18 @@
 
 ## `01` About Me
 
-
 ```yaml
 name: "David Simba"
 role: "Software Developer — Mobile & Full Stack"
 focus:
-  - Native and hybrid mobile app development
-  - Scalable, maintainable software architecture
+  - Native and cross-platform mobile development
+  - Scalable and maintainable software architecture
   - Clean Architecture, MVVM, BLoC, SOLID principles
   - Cross-platform engineering (Kotlin Multiplatform, Flutter, React Native)
-philosophy: "Aprender, construir, mejorar — continuamente."
+philosophy: "Learn, build, improve — continuously."
 ```
 
-Desarrollador de software con experiencia en aplicaciones móviles nativas e híbridas, enfocado en el diseño de soluciones escalables. Aplico buenas prácticas y principios de arquitectura para construir aplicaciones eficientes y mantenibles. Me apasiona aprender nuevas tecnologías y contribuir a proyectos desafiantes que impulsen mi crecimiento profesional.
+Software Developer with experience building native and cross-platform mobile applications, focused on designing scalable software solutions. I apply software engineering best practices and architectural principles to build efficient, maintainable applications. Passionate about learning new technologies and contributing to challenging projects that foster continuous professional growth.
 
 **Open To:**
 
@@ -27,7 +26,7 @@ Desarrollador de software con experiencia en aplicaciones móviles nativas e hí
 
 ## `02` Tech Stack
 
-**Lenguajes de Programación**
+**Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=js,ts,dart,java,kotlin&theme=dark" />
 
@@ -35,7 +34,7 @@ Desarrollador de software con experiencia en aplicaciones móviles nativas e hí
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark" />
 
-**Móvil**
+**Mobile**
 
 <img src="https://skillicons.dev/icons?i=flutter,react,kotlin&theme=dark" />
 
@@ -46,7 +45,7 @@ Desarrollador de software con experiencia en aplicaciones móviles nativas e hí
 <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
 <img src="https://img.shields.io/badge/Crashlytics-FFA000?style=flat-square&logo=firebase&logoColor=white" />
 
-**Herramientas & Metodologías**
+**Tools & Methodologies**
 
 <img src="https://skillicons.dev/icons?i=git,github,jira,notion&theme=dark" />
 <br/>
@@ -62,160 +61,162 @@ Desarrollador de software con experiencia en aplicaciones móviles nativas e hí
 
 ---
 
-## `03` Áreas de Especialización
+## `03` Areas of Expertise
 
 <div align="center">
 
-| Dominio | Detalles |
-|---|---|---|
-| **Desarrollo Android Nativo** | Kotlin, Java, Jetpack Compose, Kotlin Multiplatform |
-| **Desarrollo Multiplataforma** | React Native (Expo), Flutter, Kotlin Multiplatform |
-| **Arquitectura de Software** | Clean Architecture, MVVM, BLoC, organización por features |
+| Domain | Details |
+|---|---|
+| **Native Android Development** | Kotlin, Java, Jetpack Compose, Kotlin Multiplatform |
+| **Cross-Platform Development** | React Native (Expo), Flutter, Kotlin Multiplatform |
+| **Software Architecture** | Clean Architecture, MVVM, BLoC, feature-based organization |
 | **Testing** | Jest, RNTL, Maestro, Playwright |
-| **Integraciones Financieras** | Plaid API, monitoreo con Sentry |
-| **Frontend Web / Visualización** | React, TypeScript, D3.js, ECharts |
-| **Datos & Preparación para ML** | Procesamiento y preparación de datos para entrenamiento de modelos LLM |
+| **Financial Integrations** | Plaid API, Sentry monitoring |
+| **Web Frontend & Data Visualization** | React, TypeScript, D3.js, ECharts |
+| **Data & ML Preparation** | Data processing and preparation for LLM training |
 
 </div>
 
 ---
 
-## `04` Proyectos Destacados
+## `04` Featured Projects
 
 <details>
-<summary><b>📱 Aplicación de Sector Servicios — Migración a Kotlin Multiplatform</b></summary>
+<summary><b>📱 Service Industry Application — Kotlin Multiplatform Migration</b></summary>
 <br/>
 
-Migración de una aplicación Android nativa hacia Kotlin Multiplatform, compartiendo lógica de negocio entre plataformas y reconstruyendo la interfaz con Jetpack Compose.
+Migrated a native Android application to Kotlin Multiplatform, sharing business logic across platforms while rebuilding the Android UI using Jetpack Compose.
 
-| Categoría | Detalles |
+| Category | Details |
 |---|---|
 | **Stack** | Kotlin Multiplatform, Jetpack Compose, Java |
-| **Arquitectura** | Clean Architecture, MVVM, organización por features |
-| **Principios** | SOLID |
-| **Rol** | Android Developer |
-| **Periodo** | Feb 2026 – Mar 2026 |
+| **Architecture** | Clean Architecture, MVVM, feature-based organization |
+| **Principles** | SOLID |
+| **Role** | Android Developer |
+| **Period** | Feb 2026 – Mar 2026 |
 
-Reconstruí la interfaz Android utilizando Jetpack Compose y componentes reutilizables, aplicando principios SOLID para mejorar la mantenibilidad y escalabilidad del código base.
+Rebuilt the Android user interface with Jetpack Compose using reusable components while applying SOLID principles to improve maintainability and scalability.
 
 </details>
 
 <details>
-<summary><b>💰 Aplicación de Sector Financiero — Plataforma Multiplataforma</b></summary>
+<summary><b>💰 Financial Application — Cross-Platform Banking Platform</b></summary>
 <br/>
 
-Desarrollo de funcionalidades para una aplicación financiera multiplataforma con integración de servicios bancarios en tiempo real.
+Developed new features for a cross-platform financial application integrating real-time banking services.
 
-| Categoría | Detalles |
+| Category | Details |
 |---|---|
 | **Stack** | React Native (Expo), TypeScript, Plaid API, Sentry |
-| **Testing** | Jest, RNTL, Maestro, Playwright (unitario, integración y E2E) |
-| **Monitoreo** | Diagnóstico de errores en producción con Sentry |
-| **Rol** | Mobile Developer |
-| **Periodo** | Sep 2025 – Ene 2026 |
+| **Testing** | Jest, RNTL, Maestro, Playwright (Unit, Integration & E2E) |
+| **Monitoring** | Production error monitoring with Sentry |
+| **Role** | Mobile Developer |
+| **Period** | Sep 2025 – Jan 2026 |
 
-Integré servicios financieros mediante Plaid API y elaboré documentación técnica junto con las decisiones de arquitectura del proyecto.
+Integrated financial services through Plaid API and contributed technical documentation as well as architecture decision records.
 
 </details>
 
 <details>
-<summary><b>🛠️ Aplicación de Sector Servicios — Mejoras UI/UX y Monetización</b></summary>
+<summary><b>🛠️ Service Industry Application — UI/UX & Monetization Improvements</b></summary>
 <br/>
 
-Desarrollo de nuevas funcionalidades nativas Android con foco en experiencia de usuario e internacionalización.
+Developed native Android features with a strong focus on user experience and internationalization.
 
-| Categoría | Detalles |
+| Category | Details |
 |---|---|
 | **Stack** | Kotlin, Java, Firebase Crashlytics, RevenueCat |
-| **Foco** | UI/UX, internacionalización (i18n), monetización premium |
-| **Rol** | Android Developer |
-| **Periodo** | May 2025 – Ago 2025 |
+| **Focus** | UI/UX, Internationalization (i18n), Premium Monetization |
+| **Role** | Android Developer |
+| **Period** | May 2025 – Aug 2025 |
 
-Integré monitoreo de errores mediante Firebase Crashlytics y participé en la implementación de funcionalidades premium utilizando RevenueCat.
+Integrated Firebase Crashlytics for production monitoring and contributed to premium feature implementation using RevenueCat.
 
 </details>
 
 <details>
-<summary><b>🩺 Aplicación de Sector Salud — Integración con Wearables</b></summary>
+<summary><b>🩺 Healthcare Application — Wearable Integration</b></summary>
 <br/>
 
-Desarrollo de funcionalidades móviles multiplataforma con integración de datos de dispositivos wearables.
+Developed cross-platform mobile features integrating health data from wearable devices.
 
-| Categoría | Detalles |
+| Category | Details |
 |---|---|
 | **Stack** | Flutter, Dart, Terra API |
-| **Gestión de Estado** | BLoC |
-| **Arquitectura** | Clean Architecture, organización por features |
-| **Rol** | Flutter Developer |
-| **Periodo** | Mar 2025 – Abr 2025 |
+| **State Management** | BLoC |
+| **Architecture** | Clean Architecture, feature-based organization |
+| **Role** | Flutter Developer |
+| **Period** | Mar 2025 – Apr 2025 |
 
-Integré datos provenientes de wearables mediante Terra API, aplicando Clean Architecture para mantener el código desacoplado y testeable.
+Integrated wearable health data through Terra API while applying Clean Architecture to maintain a modular and testable codebase.
 
 </details>
 
 <details>
-<summary><b>📊 Proyecto de Sector Tecnológico — Visualización de Datos</b></summary>
+<summary><b>📊 Technology Project — Interactive Data Visualization</b></summary>
 <br/>
 
-Construcción de visualizaciones interactivas para análisis de datos y preparación de datasets para entrenamiento de modelos LLM.
+Built interactive data visualizations and participated in data preparation pipelines for Large Language Model (LLM) training.
 
-| Categoría | Detalles |
+| Category | Details |
 |---|---|
 | **Stack** | React, TypeScript, D3.js, ECharts |
-| **Foco** | Visualización interactiva de datos, componentes reutilizables |
-| **Datos** | Procesamiento y preparación de datos para entrenamiento de modelos LLM |
-| **Rol** | Frontend Developer |
-| **Periodo** | Dic 2024 – Feb 2025 |
+| **Focus** | Interactive data visualization, reusable components |
+| **Data** | Data processing and preparation for LLM training |
+| **Role** | Frontend Developer |
+| **Period** | Dec 2024 – Feb 2025 |
 
-Construí componentes reutilizables con TypeScript y participé en el pipeline de preparación de datos para el entrenamiento de modelos de lenguaje.
+Built reusable TypeScript components and contributed to the data preparation pipeline used for training language models.
 
 </details>
 
 ---
 
-## `05` Experiencia Profesional
+## `05` Professional Experience
 
-**Desarrollador de Software** — WYCRO
-`Diciembre 2024 — Marzo 2026`
+**Software Developer** — WYCRO
 
-Desarrollador móvil y frontend rotando entre múltiples proyectos de distintos sectores (servicios, salud, finanzas y tecnología), construyendo aplicaciones nativas e híbridas con foco en arquitectura escalable.
+`December 2024 — March 2026`
 
-- Migré aplicaciones Android hacia Kotlin Multiplatform compartiendo lógica de negocio entre plataformas
-- Desarrollé aplicaciones financieras y de salud multiplataforma con React Native y Flutter
-- Integré APIs de terceros (Plaid, Terra) y herramientas de monitoreo (Sentry, Crashlytics)
-- Implementé arquitecturas basadas en Clean Architecture, MVVM y BLoC
-- Construí visualizaciones de datos interactivas y participé en preparación de datos para modelos LLM
-- Elaboré documentación técnica y decisiones de arquitectura
+Worked as a Mobile and Frontend Developer across multiple projects in the services, healthcare, finance, and technology sectors, building native and cross-platform applications with a strong focus on scalable software architecture.
+
+- Migrated Android applications to Kotlin Multiplatform, sharing business logic across platforms
+- Developed cross-platform financial and healthcare applications using React Native and Flutter
+- Integrated third-party APIs (Plaid, Terra) and monitoring platforms (Sentry, Crashlytics)
+- Implemented Clean Architecture, MVVM, and BLoC architectures
+- Built interactive data visualizations and contributed to LLM data preparation pipelines
+- Produced technical documentation and architecture decision records
 
 `Kotlin` `Flutter` `React Native` `TypeScript` `Firebase` `Clean Architecture`
 
 <br/>
 
-**Prácticas Pre-Profesionales** — Unidad Nacional de Ciberdelito del Ecuador
-`Diciembre 2023 — Febrero 2024`
+**Software Engineering Intern** — Ecuador National Cybercrime Unit
 
-- Normalización de la base de datos
-- Modelado de la base de datos en MySQL
-- Migración de datos desde Excel a MySQL con Python
+`December 2023 — February 2024`
 
-`MySQL` `Python` `Modelado de Datos`
+- Database normalization
+- MySQL database modeling
+- Migrated data from Excel to MySQL using Python
+
+`MySQL` `Python` `Data Modeling`
 
 ---
 
-## `06` Formación Académica
+## `06` Education
 
 <div align="center">
 
-| Institución | Título | Periodo |
+| Institution | Degree | Period |
 |---|---|---|
-| **Escuela Politécnica Nacional** | Tecnología Superior en Desarrollo de Software | 2021 – 2024 |
-| **Unidad Educativa Gran Colombia** | Bachiller Técnico en Organización y Gestión del Secretariado | 2017 – 2020 |
+| **National Polytechnic School (Escuela Politécnica Nacional)** | Higher Technology Degree in Software Development | 2021 – 2024 |
+| **Gran Colombia High School** | Technical High School Diploma in Office Administration & Management | 2017 – 2020 |
 
 </div>
 
 ---
 
-## `07` Certificaciones
+## `07` Certifications
 
 **Anthropic**
 
@@ -223,15 +224,15 @@ Desarrollador móvil y frontend rotando entre múltiples proyectos de distintos 
 
 **Google**
 
-<img src="https://img.shields.io/badge/Curso%20de%20Desarrollo%20de%20Apps%20Móviles-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Mobile%20App%20Development%20Course-4285F4?style=flat-square&logo=google&logoColor=white" />
 
 **freeCodeCamp**
 
-<img src="https://img.shields.io/badge/Fundamentos%20de%20C%23%20con%20Microsoft-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23%20Fundamentals%20with%20Microsoft-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" />
 
 ---
 
-## `08` Actividad de Contribuciones
+## `08` Contribution Activity
 
 <div align="center">
 
@@ -241,41 +242,41 @@ Desarrollador móvil y frontend rotando entre múltiples proyectos de distintos 
 
 ---
 
-## `09` Enfoque Actual
+## `09` Current Focus
 
 ```yaml
 current:
   learning:
-    - Kotlin Multiplatform en profundidad
-    - Fundamentos avanzados de sistemas y protocolos AI (Model Context Protocol)
+    - Advanced Kotlin Multiplatform
+    - Advanced AI systems and protocols (Model Context Protocol)
   building:
-    - Aplicaciones móviles multiplataforma con arquitecturas escalables
-    - Herramientas y componentes reutilizables para proyectos financieros y de salud
+    - Cross-platform mobile applications with scalable architectures
+    - Reusable tools and components for healthcare and financial products
   exploring:
-    - Preparación de datos para modelos LLM
-    - Jetpack Compose y nuevas herramientas del ecosistema Android
+    - LLM data preparation
+    - Jetpack Compose and the latest Android ecosystem technologies
   open_to:
-    - Roles de desarrollo móvil (Android, Flutter, React Native)
-    - Proyectos full stack multiplataforma
-    - Colaboraciones freelance
+    - Mobile Development roles (Android, Flutter, React Native)
+    - Cross-platform Full Stack projects
+    - Freelance collaborations
 ```
 
 ---
 
-## `10` Idiomas y Competencias
+## `10` Languages & Soft Skills
 
 <div align="center">
 
-| Idiomas | Competencias |
+| Languages | Soft Skills |
 |---|---|
-| 🇪🇨 Español — Nativo | Trabajo en Equipo |
-| 🇬🇧 Inglés — Intermedio | Resolución de Problemas · Comunicación Efectiva · Aprendizaje Continuo · Organización · Adaptabilidad |
+| 🇪🇨 Spanish — Native | Teamwork |
+| 🇬🇧 English — Intermediate (B2) | Problem Solving · Effective Communication · Continuous Learning · Organization · Adaptability |
 
 </div>
 
 ---
 
-## `11` Conectemos
+## `11` Let's Connect
 
 <div align="center">
 
@@ -290,7 +291,7 @@ current:
 
 <div align="center">
 
-*"Aprender, construir, mejorar — continuamente."*
+*"Learn, build, improve — continuously."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 
