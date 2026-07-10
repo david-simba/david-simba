@@ -41,13 +41,10 @@ Software Developer with experience building native and cross-platform mobile app
 **Backend / Cloud**
 
 <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
-<img src="https://img.shields.io/badge/Plaid%20API-000000?style=flat-square&logo=plaid&logoColor=white" />
-<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
-<img src="https://img.shields.io/badge/Crashlytics-FFA000?style=flat-square&logo=firebase&logoColor=white" />
 
 **Tools & Methodologies**
 
-<img src="https://skillicons.dev/icons?i=git,github,jira,notion&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,notion&theme=dark" />
 
 **CI/CD**
 
