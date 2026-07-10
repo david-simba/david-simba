@@ -1,31 +1,7 @@
-<div align="center">
-
-<br/>
-
-<img src="https://img.shields.io/badge/Tecnólogo%20Superior-Desarrollo%20de%20Software-6D28D9?style=flat-square&labelColor=1e1b2e" />
-<img src="https://img.shields.io/badge/Escuela%20Politécnica%20Nacional-2021%20--%202024-7C3AED?style=flat-square&labelColor=1e1b2e" />
-<img src="https://img.shields.io/badge/Location-Ecuador-8B5CF6?style=flat-square&labelColor=1e1b2e&logo=googlemaps&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://portfolio-david-simba.vercel.app"><img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/david-simba"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:davidsimba200@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/david-simba"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=david-simba&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/david-simba?style=flat-square&color=7c3aed&labelColor=1e1b2e&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/david-simba?style=flat-square&color=a78bfa&labelColor=1e1b2e&label=STARS" />
-
-</div>
-
-<br/>
-
 ## `01` About Me
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<br/>
 
 ```yaml
 name: "David Simba"
