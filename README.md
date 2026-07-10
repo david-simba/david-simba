@@ -1,9 +1,5 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Native+%26+Hybrid+Mobile+Apps;Clean+Architecture+%2B+MVVM+%2B+BLoC;Flutter+%7C+React+Native+%7C+Kotlin+Multiplatform;Shipping+Scalable%2C+Maintainable+Software" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <img src="https://img.shields.io/badge/Tecnólogo%20Superior-Desarrollo%20de%20Software-6D28D9?style=flat-square&labelColor=1e1b2e" />
