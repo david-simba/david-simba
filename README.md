@@ -288,17 +288,7 @@ Desarrollador móvil y frontend rotando entre múltiples proyectos de distintos 
 
 ---
 
-## `11` Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/david-simba/david-simba/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-## `12` Enfoque Actual
+## `11` Enfoque Actual
 
 ```yaml
 current:
@@ -319,7 +309,7 @@ current:
 
 ---
 
-## `13` Idiomas y Competencias
+## `12` Idiomas y Competencias
 
 <div align="center">
 
@@ -332,7 +322,7 @@ current:
 
 ---
 
-## `14` Conectemos
+## `13` Conectemos
 
 <div align="center">
 
