@@ -48,7 +48,6 @@ Software Developer with experience building native and cross-platform mobile app
 **Tools & Methodologies**
 
 <img src="https://skillicons.dev/icons?i=git,github,jira,notion&theme=dark" />
-<br/>
 
 **CI/CD**
 
