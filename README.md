@@ -49,11 +49,6 @@ Software Developer with experience building native and cross-platform mobile app
 
 <img src="https://skillicons.dev/icons?i=git,github,jira,notion&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/Scrum-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Clean%20Architecture-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/MVVM-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/BLoC-A78BFA?style=flat-square" />
-<img src="https://img.shields.io/badge/SOLID-6D28D9?style=flat-square" />
 
 **CI/CD**
 
