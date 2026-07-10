@@ -66,15 +66,15 @@ Desarrollador de software con experiencia en aplicaciones móviles nativas e hí
 
 <div align="center">
 
-| Dominio | Nivel | Detalles |
+| Dominio | Detalles |
 |---|---|---|
-| **Desarrollo Android Nativo** | ⭐⭐⭐⭐⭐ | Kotlin, Java, Jetpack Compose, Kotlin Multiplatform |
-| **Desarrollo Multiplataforma** | ⭐⭐⭐⭐⭐ | React Native (Expo), Flutter, Kotlin Multiplatform |
-| **Arquitectura de Software** | ⭐⭐⭐⭐⭐ | Clean Architecture, MVVM, BLoC, organización por features |
-| **Testing** | ⭐⭐⭐⭐ | Jest, RNTL, Maestro, Playwright |
-| **Integraciones Financieras** | ⭐⭐⭐⭐ | Plaid API, monitoreo con Sentry |
-| **Frontend Web / Visualización** | ⭐⭐⭐⭐ | React, TypeScript, D3.js, ECharts |
-| **Datos & Preparación para ML** | ⭐⭐⭐ | Procesamiento y preparación de datos para entrenamiento de modelos LLM |
+| **Desarrollo Android Nativo** | Kotlin, Java, Jetpack Compose, Kotlin Multiplatform |
+| **Desarrollo Multiplataforma** | React Native (Expo), Flutter, Kotlin Multiplatform |
+| **Arquitectura de Software** | Clean Architecture, MVVM, BLoC, organización por features |
+| **Testing** | Jest, RNTL, Maestro, Playwright |
+| **Integraciones Financieras** | Plaid API, monitoreo con Sentry |
+| **Frontend Web / Visualización** | React, TypeScript, D3.js, ECharts |
+| **Datos & Preparación para ML** | Procesamiento y preparación de datos para entrenamiento de modelos LLM |
 
 </div>
 
