@@ -24,7 +24,7 @@ Software Developer with experience building native and cross-platform mobile app
 
 ---
 
-## `02` Tech Stack
+## `Tech Stack` 
 
 **Programming Languages**
 
@@ -52,7 +52,7 @@ Software Developer with experience building native and cross-platform mobile app
 
 ---
 
-## `03` Areas of Expertise
+## `Areas of Expertise` 
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Software Developer with experience building native and cross-platform mobile app
 
 ---
 
-## `04` Featured Projects
+## `Featured Projects` 
 
 <details>
 <summary><b>📱 Service Industry Application — Kotlin Multiplatform Migration</b></summary>
@@ -163,7 +163,7 @@ Built reusable TypeScript components and contributed to the data preparation pip
 
 ---
 
-## `05` Professional Experience
+## `Professional Experience` 
 
 **Software Developer** — WYCRO
 
@@ -194,7 +194,7 @@ Worked as a Mobile and Frontend Developer across multiple projects in the servic
 
 ---
 
-## `06` Education
+## `Education` 
 
 <div align="center">
 
@@ -207,7 +207,7 @@ Worked as a Mobile and Frontend Developer across multiple projects in the servic
 
 ---
 
-## `07` Certifications
+## `Certifications` 
 
 **Anthropic**
 
@@ -223,7 +223,7 @@ Worked as a Mobile and Frontend Developer across multiple projects in the servic
 
 ---
 
-## `08` Contribution Activity
+## `Contribution Activity` 
 
 <div align="center">
 
@@ -233,7 +233,7 @@ Worked as a Mobile and Frontend Developer across multiple projects in the servic
 
 ---
 
-## `09` Current Focus
+## `Current Focus` 
 
 ```yaml
 current:
@@ -254,7 +254,7 @@ current:
 
 ---
 
-## `10` Languages & Soft Skills
+## `Languages & Soft Skills` 
 
 <div align="center">
 
@@ -267,7 +267,7 @@ current:
 
 ---
 
-## `11` Let's Connect
+## `Let's Connect` 
 
 <div align="center">
 
